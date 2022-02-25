@@ -1,0 +1,422 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Blood for blood, or, Justice executed for innocent blood-shed being a true narrative of that late horrid murder committed by Mary Cook upon her own and only beloved child, with several remarkable passages preceding the fact, as also what was most worthy observation during her imprisonment, and at her execution / faithfully communicated for publique satisfaction by N. Partridge and J. Sharp ; with a sermon on the same occasion ; with other spectaters and visiters whilst in prison and at her execution.</title>
+            <author>Partridge, N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56520</idno>
+            <idno type="STC">Wing P630</idno>
+            <idno type="STC">ESTC R36660</idno>
+            <idno type="EEBO-CITATION">15866646</idno>
+            <idno type="OCLC">ocm 15866646</idno>
+            <idno type="VID">104639</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56520)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104639)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1154:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Blood for blood, or, Justice executed for innocent blood-shed being a true narrative of that late horrid murder committed by Mary Cook upon her own and only beloved child, with several remarkable passages preceding the fact, as also what was most worthy observation during her imprisonment, and at her execution / faithfully communicated for publique satisfaction by N. Partridge and J. Sharp ; with a sermon on the same occasion ; with other spectaters and visiters whilst in prison and at her execution.</title>
+                  <author>Partridge, N.</author>
+                  <author>Sharp, J.</author>
+               </titleStmt>
+               <extent>[10], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Smith ... and D. Newman ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Infanticide --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104639:1"/>
+            <pb facs="tcp:104639:1" rendition="simple:additions"/>
+            <p>Blood for Blood, OR, JUSTICE EXECUTED FOR <hi>Innocent Blood-Shed.</hi> Being a true Narrative of that late horrid Murder, com<g ref="char:EOLhyphen"/>mitted by <hi>Mary Cook,</hi> upon her own and only beloved Child, with ſeveral remarkable paſſages, pre<g ref="char:EOLhyphen"/>ceding the fact, as alſo what was moſt worthy obſervation, during her Impriſonment, and at her Exe<g ref="char:EOLhyphen"/>cution, faithfully communicated for Publique Satisfaction.</p>
+            <p>By <hi>N. Partridge,</hi> and <hi>J. Sharp.</hi> With a Sermon upon the ſame occaſion. With other Spectaters and Vi<g ref="char:EOLhyphen"/>ſiters whilſt in Priſon, and at her Execution.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>F. Smith,</hi> at the <hi>Elephant</hi> and <hi>Caſtle</hi> with<g ref="char:EOLhyphen"/>out <hi>Temple-Bar;</hi> and <hi>D. Newman,</hi> at the <hi>Chy<g ref="char:EOLhyphen"/>rurgions-Arms</hi> in
+<hi>Little-Brittain.</hi> 1670.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:104639:2"/>
+            <p>Licenſed and Entered ac<g ref="char:EOLhyphen"/>cording to Order.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:104639:2"/>
+            <head>To the READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Ere is at length now expoſed to publique view this brief, but true Narrative (of that ever to be ab<g ref="char:EOLhyphen"/>horred cruelty of <hi>M. C.</hi> in murder<g ref="char:EOLhyphen"/>ing her innocent Babe) which we humbly ſub<g ref="char:EOLhyphen"/>mit to thy favourable cenſure and charitable interpretation.</p>
+            <p>Two reaſons eſpecially have drawn it forth,</p>
+            <p>Firſt, to fulfil the will of the poor creature which was executed, who had an earneſt de<g ref="char:EOLhyphen"/>ſire at the place and time of her execution, to have given glory to God, by confeſſing her ſins, accepting her puniſhment, and giving warning to all the numerous ſpectators of the evil of ſin, and the danger of eternal wrath; but natural ſtrength failing her, wiſhed ſome of us in the
+<pb facs="tcp:104639:3"/> Cart with her, to have manifeſted the ſame then; but the noiſe of the multitude was ſuch, that it could not be done conveniently; ſome days paſſed after before any thoughts were ſtir<g ref="char:EOLunhyphen"/>red up in us to publiſh any thing of this nature, during which time ſome of us could have little reſt, apprehending ſome neglect might be im<g ref="char:EOLhyphen"/>puted unto us, in a buſineſs, which for ought we knew might be for general good.</p>
+            <p>As we would not cover over with gilt or paint, rotten Wood or Copper, neither would we bury under dirt the leaſt grain of pure Gold; therefore we have not taken upon us to paſs any judgement upon the dying ſtate of <hi>M. C.</hi> but leave it unto him who ſees and looketh into the hidden man of the heart, and weigheth both ſins and repentance in the balance of the San<g ref="char:EOLhyphen"/>ctuary; and to the judicious Reader, who we hope will meaſure what is ſpoken by her, and of her, by the rule of Chriſtian charity, and as we apprehended in her whilſt living, great fear, and yet greater hopes; ſo we leave her now dead, looping that her application to the blood of Chriſt was ſincere (as diſcovered more at large in the following Narrative) the which blood ſpeaks better things than the blood of <hi>Abel;</hi> his preci<g ref="char:EOLhyphen"/>ous blood crying to God for mercy, may out-cry the loud cry of the innocent blood, ſhed by her for vengeance.</p>
+            <p>
+               <pb facs="tcp:104639:3"/>The ſecond reaſon was, That this (through the bleſſing of God) might be a word in ſea<g ref="char:EOLhyphen"/>ſon, both to Profeſſors and prophane perſons, in this day of Satans violent temptations; to Pro<g ref="char:EOLhyphen"/>feſſors, becauſe we find by daily and ſad expe<g ref="char:EOLhyphen"/>rience, the Devil ſetting upon thoſe richly la<g ref="char:EOLhyphen"/>den with choice treaſures, with furious aſ<g ref="char:EOLhyphen"/>ſaults; to them therefore ſpeak we (or rather the Lord) look well to your foundation; ſecure your principles, live in the daily exerciſe of thoſe rooting graces, humility, ſelf-denial, and repentance, and then grow up in the nutri<g ref="char:EOLhyphen"/>tive graces, faith, hope and love, and to crown all, let integrity and uprightneſs preſerve thee, and ſo perſevere unto the end, the Lord helping thee to ſet up his watch tower in thy heart, continually natural reaſon and common providence may prompt thee, to ſecure and watch thy outward eſtate, but grace alone in<g ref="char:EOLhyphen"/>ſtructs thee how to keep thy heart, were thy heart danger-free, from enmity without, and treachery within; thou hadſt then a Plea for the abatement of thy ſouls intention herein: but whilſt a danger of ſurprize by both remit no diligence, ſhew me that man or woman whom the impudence of ſin and Satan doth not ſome<g ref="char:EOLhyphen"/>times charge and aſſault; but if ſuch a one can<g ref="char:EOLhyphen"/>not be found, be convinced of thy need of the
+<pb facs="tcp:104639:4"/> Divine breaſt-plate, which will not only put temptations back, but force the tempter to ſurceaſe his aſſaults; or if ſo impudent, not<g ref="char:EOLhyphen"/>withſtanding, will yet enable thee to ſhake them of (as St. <hi>Paul</hi> did the Viper from his hand) unburt.</p>
+            <p>And to the prophane, that they by reading this ſad relation, as the conſequences of ſin,
+[and the awakening Sermon thereunto annex<g ref="char:EOLhyphen"/>ed] may come to know themſelves, and their un<g ref="char:EOLhyphen"/>ſafe condition, whilſt in their unregenerate ſtate, and the Spirit of God working with it, they may be thereby provoked to conſider their ways, and amend them, before the day come wherein ſinners ſhall cry out, <hi>Who among us ſhall dwell with devouring fire? Who ſhall abide with everlaſting burnings? For the day of the Lord will burn as an Oven, and ſinners ſhall be as ſtubble:</hi> Oh! therefore it is to warn them to flee from the wrath to come, and in the bowels of our Lord Jeſus, to beſeech thee to look their faces in the glaſs of Gods Law, and to continue therein, and be a doer of the work.</p>
+            <p>And now Reader, becauſe the cry of blood reacheth unto the Heavens, and calleth for a narrow ſearch and inquiry from thence, that
+<pb facs="tcp:104639:4"/> juſtice may take place, and vengeance from God may be executed, to anſwer the nature of the crime committed, the ſin of blood being of that deep dy in the eyes of God, that he hath left in his written Word no City of refuge to flie unto for the outward part of the offender, though ſought, if poſſible, with tears of blood; yet is his Law unalterable, <hi>Who ſo ſheddeth mans blood, by man ſhall his blood be ſhed,</hi> Gen. <hi>9.6.</hi> Weeping, wailing, and gnaſhing of teeth will not here prevail, nor can create a door of hope; witneſs the caſe of poor <hi>Butler</hi> and <hi>Savage,</hi> who wrung their hands for ſorrow, ſmote upon their breaſts, and with thouſands of bitter ſighs cryed, <hi>Oh, that I had not done this wicked Act; what to murder my inno- friend? It makes me ſo far from deſiring life or refuge here, that I am not meet nor worthy to tread any longer upon Gods earth, nor yet to live in the ſociety of men, or to be ſeen above ground, or die a natural death up<g ref="char:EOLhyphen"/>on my body, but muſt call for juſtice, juſtice, juſtice, and that in a violent way it may be executed upon me, to ſend me as ſpeedily as is poſſible from off the earth I have ſo defil'd, by ſo dreadful a ſin as this my Murder was:</hi> And no marvel but the offendor, if touched with a thorough ſence of this dreadful crime,
+<pb facs="tcp:104639:5"/> muſt and will thus cry out for ſpeedy and pub<g ref="char:EOLhyphen"/>lick juſtice to be done upon him in the ſight of the Sun, while the Law of God is ſo far from giving reſpect in this caſe to the Judges of the earth, that he will puniſh not only parti<g ref="char:EOLhyphen"/>cular perſons, but Families, yea Cities and Kingdoms too, where juſtice for this bloody crime is omitted or remitted; and when the Magiſtrate hath done his Office, ſo dreadful in Gods eye is this foul Crime, that after ſen<g ref="char:EOLhyphen"/>tence and execution hath removed the Offendor from the ſociety of men, except deep ſorrow and unfeigned repentance, bitter ſighs, lamen<g ref="char:EOLhyphen"/>table cryes, and above all, the blood of a Sa<g ref="char:EOLhyphen"/>viour doth mediate to the appeaſing wrath, the ſame Offendor muſt be given up into the hands of Devils, to be tormented with fire and brimſtone; whereas St. <hi>Mark</hi> ſaith, their worm ſhall never dye, and their fire ſhall ne<g ref="char:EOLhyphen"/>ver be quenched.</p>
+            <p>Therefore Reader, if Murder ſpeaks thus loud with God and man, no doubt but City and Country will ring of it; and Oh, that the cry of this, even of this (that a Mother ſhould ſo forget her tender Babe, as not only to neglect it, but the worſt of evils to murder it; yea, to bath as it were her hands in her childs blood:
+<pb facs="tcp:104639:5"/> We again pray and ſay, Oh, that it might, if poſſible, reach to the ends, not only of <hi>England,</hi> but the earth, to beget a reverence to God, a dread to ſin, and a continual praying and watching over our hearts and lives, and to be<g ref="char:EOLhyphen"/>ſpeak warning to all, that none henceforward upon themſelves, their child or neighbour, ſhall entertain a thought to do this abomina<g ref="char:EOLhyphen"/>ble thing that God ſo hates.</p>
+            <p>In a word, there is nothing in the world, the fleſh, or the devil can ſuggeſt (how taking ſoever with thy ſenſual affections, or however backed with arguments of pleaſure, or pro<g ref="char:EOLhyphen"/>fit, or ſecrecy) but this Narrative and Ser<g ref="char:EOLhyphen"/>mon, may teach thee to retort upon the ſug<g ref="char:EOLhyphen"/>geſter, How can I do this wickedneſs and ſin against God, or hearken to this lying vanity, and forſake my own mercy: Oh, that when you find your hearts at any time, <hi>ſordid a cogitare,</hi> a vain ſinful thought ariſe, or luſt conceive in thee, thou wouldst daſh it in pieces againſt the ſpiritual rock Chriſt, and oppoſe entice<g ref="char:EOLhyphen"/>ments unto the ſecreteſt evils, with that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that the eye of God ſees thy moſt retired thoughts and actions whilſt yet unhatched, and in the ſhell, are open and ma<g ref="char:EOLhyphen"/>nifeſt
+<pb facs="tcp:104639:6"/> to him; fearing that the porch is too large already, to conclude, in order to the ſpi<g ref="char:EOLhyphen"/>ritual and eternal advantage of your ſoul, we leave this ſhort warning, and ſmall expedient in your hands; and if it may further that end, we have our aim, and let God have the ſole praiſe.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:104639:6"/>
+            <head>A more full account of the life and death of <hi>Mary Cook,</hi> taken by ſeveral Eye and Ear Wit<g ref="char:EOLhyphen"/>neſſes, moſt converſant with her, from the hour ſhe did commit that hor<g ref="char:EOLhyphen"/>rid Murther upon her Child, till ſhe was laid in the Grave.</head>
+            <p>THe ſubject of our preſent Narra<g ref="char:EOLhyphen"/>tive being a horrid Murther: Be<g ref="char:EOLhyphen"/>fore we come to the ſad and Tra<g ref="char:EOLhyphen"/>gical matter of Fact, give us leave in a few lines, to open the hai<g ref="char:EOLhyphen"/>nouſneſs of this ſin, the dangerous conſe<g ref="char:EOLhyphen"/>quences of it, and what means ought to be uſed for the preventing of it.</p>
+            <p>No Sin committed againſt the Comman<g ref="char:EOLhyphen"/>dements of the ſecond Table, cryeth louder to God for vengeance, and unto Man for Juſtice than the ſhedding of innocent blood:
+<pb n="2" facs="tcp:104639:7"/> 
+               <hi>And the Lord ſaid unto</hi> Cain, <hi>What haſt thou done? the voice of thy Brothers blood cryeth unto me from the ground,</hi> Gen. 4.10. Rev. 6.10.</p>
+            <p n="1">1. God will not ſtop his ears from the cry thereof, nay he ſeemeth to ſpeak, as if he could have no reſt until he be avenged on the Murtherer.</p>
+            <p n="1">1. Becauſe it is a ſin againſt his expreſs Commandement; <hi>Thou ſhalt not kill,</hi> Exod. 20.13.</p>
+            <p n="2">2. Becauſe it is the defacing of Gods I<g ref="char:EOLhyphen"/>mage in which man is Created, <hi>Whoſoever ſheddeth Mans blood, by Man ſhall his blood be ſhed;</hi> Why? <hi>For in the Image of God made he Man:</hi> Gen. 9.6. Now to raze the Kings Picture or great Seal, is High Trea<g ref="char:EOLhyphen"/>ſon.</p>
+            <p n="2">2. Man ought not to ſtop his Ears from the cry of innocent blood, becauſe there is no way to purifie the Land from the guilt of inno<g ref="char:EOLhyphen"/>cent blood, but by executing Juſtice upon the Blood-ſhedder.</p>
+            <p>You ſhall take no ſatisfaction for the life of a Murderer, <hi>So you ſhall not pollute the Land wherein you are; for blood defileth the Land, and the Land cannot be cleanſed of the blood ſhed therein, but by the blood of him that ſhed it,</hi> Numb. 35.33.</p>
+            <p>
+               <pb n="3" facs="tcp:104639:7"/>Now as above ſaid, Gods Command is expreſly, <hi>Thou ſhalt do no Murder.</hi>
+            </p>
+            <p n="1">1. Murder lyeth either in the Omiſſion of Duty, in doing good to my ſelf or my Neigh<g ref="char:EOLhyphen"/>bour, with reſpect unto Soul or Body, whereby I may procure his welfare.</p>
+            <p n="2">2. In practicing evil againſt my ſelf, or Neighbour, whom I am commanded to love as my ſelf, and to avoid all cruelty and un<g ref="char:EOLhyphen"/>mercifulneſs againſt him.</p>
+            <p>A word or two of Soul-Murder.</p>
+            <p>Soul-Murder is dreadful, though minded but by a few in the World, the greater pity.</p>
+            <p n="1">1. When a people periſh for want of plain and faithful preaching; <hi>If thou warn not the wicked, and he dye in his ſin, his blood will I require at thy hand,</hi> Ezek. 33.8.</p>
+            <p n="2">2. When Parents and Maſters of Families neglect their Duties to the ſouls of thoſe that are committed to their charge, mind not to teach Children and Servants to know God, and to train them up in the nurture and admo<g ref="char:EOLhyphen"/>nition of the Lord; to ſtir them up to read and hear Gods holy Word, and to hallow Gods Holy day to ſanctifie it, and themſelves to the Worſhip and Service of their God, whereby they might come to know God, and
+<pb n="4" facs="tcp:104639:8"/> Jeſus Chriſt, which is Life Eternal, <hi>Deut.</hi> 6.6, 7.</p>
+            <p>May not we take up a lamentation for the exceſſive Remiſſeneſs in this Duty; Youth for the moſt part, ſuffered upon the Lords day to take their pleaſure, as if it were a day only for play: Sad will the charge be of ſuch Maſters and Parents at the laſt day?</p>
+            <p>And thoſe Children and Servants that are Sons of <hi>Belial,</hi> will be under no Yoke, but refuſe to receive inſtruction, and turn away from, or ſtiffen the neck againſt reproof, ſhall dye without remedy, and his Souls blood required at his own hand, <hi>Prov.</hi> 1.29. But ſo much ſhall ſuffice to be ſpoken of Soul-Murder, or Omiſſion of Duty to the Soul. So I may murder my ſelf or Neighbour by wilful neglect of doing good to my ſelf: when I ſhall refuſe either Food or Phyſick which God hath ordained for the preſervation of natural Life or Health.</p>
+            <p>The principal thing is to open Murther, as it lieth under the practice of Evil againſt my ſelf or Neighbour, which is done, ſometimes ſecretly, ſometimes openly.</p>
+            <p n="1">1. Secretly, When I am angry with ano<g ref="char:EOLhyphen"/>ther without cauſe, or that it exceeds the cauſe, either for time or meaſure: When
+<pb n="5" facs="tcp:104639:8"/> paſſion ſinks deep in the heart it becomes de<g ref="char:EOLhyphen"/>villiſh; So that there ſhould never be anger in our breaſts where ſin againſt God is not the cauſe, otherwiſe, you ſin in being angry, and give place to the Devil, <hi>Epheſ.</hi> 4.26, 27. If you be angry only for ſome injury done to your ſelf, you may eaſily find pride at the Root, and if not timely prevented revenge will be the Fruit.</p>
+            <p>Qu. <hi>But how ſhall I prevent it?</hi>
+            </p>
+            <p n="1">1. Lay thoſe manifold offences done by thee againſt God into the Ballance againſt thoſe offences or injuries men do againſt thee, and that may be one way to abate hate,
+<hi>Tit.</hi> 3.2.</p>
+            <p n="2">2. No provocation can be given to thee but by Gods permiſſion, for the tryal and ex<g ref="char:EOLhyphen"/>erciſe of thy Graces and Vertues; There<g ref="char:EOLhyphen"/>fore <hi>David</hi> ſaid, <hi>Let</hi> Shimei
+<hi>Curſe.</hi>
+            </p>
+            <p n="3">3. Avoid all kindling or blowing up the flame of paſſion in thy own breaſt, put, and keep at a diſtance all that combuſtable ſtuffe that would take fire; Be not a Compa<g ref="char:EOLhyphen"/>nion of the Gameſter, the Drunkard, or the froward in Spirit.</p>
+            <p n="4">4. Conſider, that anger reſteth in the bo<g ref="char:EOLhyphen"/>ſome of Fools: So much fury, ſo much folly. <hi>Eccleſ.</hi> 7.11.</p>
+            <p n="2">
+               <pb n="6" facs="tcp:104639:9"/>2. When it cauſeth envie to riſe in my breaſt againſt my Neighbour; Herein the Devil was a Murderer, for that he envied our firſt Parents happineſs, the melioriety of their eſtate, he being fallen himſelf: And <hi>Cain</hi> being of that Seed, he envies
+<hi>Abel,</hi> be<g ref="char:EOLhyphen"/>cauſe accepted of God before him.</p>
+            <p>Now this ſpringeth from the want of true Love, and from overmuch Self-love, for love envies not, 1 <hi>Cor.</hi> 13.4. And he that hateth his Brother for that good which is in him, for which he ſhould love him is a Murderer, 1 <hi>John</hi> 3.5.</p>
+            <p>Now Satan takes the advantage to kindle the Fire and Fewel, and make it bouſe over, and break forth in action, either againſt o<g ref="char:EOLhyphen"/>thers or our ſelves in Revenge, and injuring our neighbour, in deſires or purpoſes of Revenge, as <hi>Eſau</hi> ſaid in his heart, <hi>The daies of mourn<g ref="char:EOLhyphen"/>ing for my Father are at hand, then will I ſlay my Brother</hi> Jacob <hi>for the Bleſſing,</hi> not conſidering whoſe propriety it is to Re<g ref="char:EOLhyphen"/>venge Wrong, <hi>Rom.</hi>
+12.19.</p>
+            <p>And hence proceeds actual Murders a<g ref="char:EOLhyphen"/>gainſt our Neighbour or our ſelves, ſome<g ref="char:EOLhyphen"/>times ſecret, by giving or taking poyſon or giving way to Temptations of tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> kinde.</p>
+            <p>
+               <pb n="7" facs="tcp:104639:9"/>Sometimes open, by laying violent hands upon our ſelves or others.</p>
+            <p n="1">1. Upon our ſelves, A Sin ſo hainous in the ſight of God, that he Commands if a Beaſt ſlay a Man, the Beaſt was to be ſtoned to death, although he had neither Law nor Reaſon to reſtrain him, how much more Man whom God hath endowed with a Rea<g ref="char:EOLhyphen"/>ſonable Soul, and bounded with a Righteous Law, <hi>Exod.</hi> 21.28.</p>
+            <p>Now this is ſo much the more evil, by how much the nearer and ſtronger the bonds are, by which God and Nature binds us to preſervation, whether the Bonds of Conſan<g ref="char:EOLhyphen"/>guinity or Affinity, but moſt Monſtrous and Unnatural of all, is to lay violent hands upon our ſelves, to whom I am bound by all Bonds to love and preſerve; Therefore for one to rend in ſunder his own Soul and Body, is very dreadful, breaking all Bonds of God and Nature, and for ought man can judge, plunging themſelves into Hell without Reme<g ref="char:EOLhyphen"/>dy, there being no ſpace betwixt Sin and Death for Repentance, and certainly no Mur<g ref="char:EOLhyphen"/>therer hath Eternal Life in him, 1 <hi>John</hi> 3.15.</p>
+            <p>Now, what is the cauſe? Find out that, and you have half the cure.</p>
+            <p n="1">
+               <pb n="8" facs="tcp:104639:10"/>1. No one layeth violent hands upon themſelves, but pride is the root of it, diſ<g ref="char:EOLhyphen"/>contented with Gods wiſe providential diſ<g ref="char:EOLhyphen"/>poſal, when perſons chuſe and reſolve not to be at all, becauſe they may not be what they would be themſelves, not ſubmitting them<g ref="char:EOLhyphen"/>ſelves to what God will have them to be.</p>
+            <p n="2">2. Unbelief and impatiency, want of faith in God to keep him in a quiet waiting upon the wiſe Governour of all things, to work a good iſſue for us out of troubles.</p>
+            <p n="2">2. None lay violent hands upon others but for want of retaining the knowledge and awe of the all-ſeeing and ſin-revenging God in their hearts; as you may read at large, <hi>Rom.</hi>
+1.28, 31.</p>
+            <p>Now to prevent both,</p>
+            <p n="1">1. Beg earneſtly of God to write his Law in thy heart, and to put his fear in thee, and keep thee in a meek and quiet frame of ſpirit.</p>
+            <p n="2">2. If at any time differences do ariſe that may by Satan or thy own heart be blown up to paſſionate revenge, do theſe few things.</p>
+            <p n="1">1. If two conſtructions can be made of a word, or geſture, or action, be ſure to make the beſt. It is a note of a wicked perſon to invent evil, if he may conſtrue it unto good.</p>
+            <p n="2">
+               <pb n="9" facs="tcp:104639:10"/>2. Be as ready to forgive as you would be forgiven your ſelf, either of God or man.</p>
+            <p n="3">3. Seek, yea purſue peace until you over<g ref="char:EOLhyphen"/>take it, 1 <hi>Pet.</hi> 3.8, 9, 11. <hi>If it be poſſible, as much as lieth in you, live peaceably with all men; avenge not your ſelves, but rather give place unto wrath,</hi> Rom. 12.18, 19.</p>
+            <p n="4">4. Carefully maintain a noble ſpirit of ſympathy with any when under temptation or oppreſſion: Could we obey that bleſſed rule to do as we would be done unto, <hi>Gal.</hi>
+6.1, 2. it would abate anger, prevent revenge and murder; which is to the matter of fact. Now we ſhall proceed to give you the rela<g ref="char:EOLhyphen"/>tion, with the aggravating circumſtances w<hi rend="sup">ch</hi> accompanied this hainous, and we think al<g ref="char:EOLhyphen"/>moſt unparalleld murder.</p>
+            <p>The perſon which committed this murder, was one <hi>Mary Cook,</hi> the wife of <hi>T. C.</hi> living ſince the late dreadful fire in <hi>Cloth-fair,</hi> near <hi>Smithfield</hi> in
+<hi>London,</hi> who was about the age of 37 years, and had been married to her ſaid Husband near
+12 years, by whom ſhe had eight children; and by the relation of many creditable perſons who have known her of a child, have given this character of her, That ſhe was of a very civil and ſober life and converſation, living in the neighbourhood
+<pb n="10" facs="tcp:104639:11"/> very inoffenſively; but alſo, that ſhe was of a very melancholy temper, which is the An<g ref="char:EOLhyphen"/>vil that the Devil delights to forge upon; for now Satan makes uſe of all advantages againſt her, to increaſe her melancholy, blowing up in her mind great diſcontent with her preſent condition; ſo that as her affection unto it decreaſed, ſo her affliction in it increaſed; inſomuch, that common buſineſs became a burden, and fears aroſe in her as to wants, that in fine, ſhe fancied death leſs bitter than life; and now the Devil having thus far pre<g ref="char:EOLhyphen"/>vailed, is not wanting to put her upon ſuch temptations as might ſpeed her ruin.</p>
+            <p n="1">1. Then the Devil ſtirs her up to revenge, and this as ſhe hath related ſince, did give her a kind of ſecret content, and this tempta<g ref="char:EOLhyphen"/>tion prevailed much with her; for being ask<g ref="char:EOLhyphen"/>ed that morning ſhe committed the fact, what might be the reaſon of it? one anſwer was, That ſhe had been a fortnight ſick and weak, and no one took care what ſhe wanted; thus through temptation ſhe prefers revenge before temporal ſafety and eternal peace.</p>
+            <p n="2">2. The Devil prevailed with her to keep his ſecrets and counſel, for ſhe diſcovered her affliction to <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>one that might pray with or fo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> her, or could give ſuitable counſel to her, and
+<pb n="11" facs="tcp:104639:11"/> help to bear her burden; by which means ſhe ſtruggling in her own ſtrength, until at laſt ſhe concluded there was no hope of amend<g ref="char:EOLhyphen"/>ment of her condition, or eaſe to her troubled mind, but by death.</p>
+            <p n="3">3. Temptation by which the Devil pre<g ref="char:EOLhyphen"/>vailed upon her, was to grow mindleſs of hearing Gods holy Word preached, or read the Scriptures, or to perform publick or pri<g ref="char:EOLhyphen"/>vate prayers; this had prevailed ſo high, that the morning ſhe gave that fatal blow, ſhe confeſt for months together ſhe had not been at Church to hear God's Word taught, nei<g ref="char:EOLhyphen"/>ther had been much (if at all) troubled for her backwardneſs or neglect therein. Thus did ſhe at once provoke the Devil to bend his bow againſt her, and left her ſelf diſtitute of thoſe ſpecial remedies to avoid his keen and dreadful arrows.</p>
+            <p n="4">4. Temptation was her ſelf-murder; and this ſhe did with great liking imbrace, being more concerned how to bring it about with ſpeed and ſecrecy, than either to diſcover it or prevent it.</p>
+            <p>And firſt, ſhe reſolves of drowning her ſelf; to promote which deſign ſhe goes into a ſolitary place in the fields, walking to and fro like a diſtracted Woman, but could not find
+<pb n="12" facs="tcp:104639:12"/> where to pitch the beſt conveniency for her purpoſe, ſtill wandring about until God in his good providence at laſt met her with ſome ſuitable acquaintance, which prevented the Devils temptation from having ſucceſs at this time.</p>
+            <p>Some time after this, now above a year and quarter agone, ſhe is put upon another device to her own deſtruction, namely, to hang her ſelf, for which purpoſe ſhe had gotton two long skenes of ſilk, and in her own celler was preparing to act this ſad tragedy; but a kinſwoman going into the celler, and ſeeing her ſtand in the corner, told her Uncle, the Wo<g ref="char:EOLhyphen"/>mans Husband, who ran down and found the skenes of ſilk in her hand, demanding what ſhe was doing? She then told him her inten<g ref="char:EOLhyphen"/>tions if he had not prevented her; he got her up, and went and fetched her father unto her, and they together indeavoured to perſwade her: Then her Husband knocked down all the nails and hooks in the celler, to prevent her for the future.</p>
+            <p>But it is here worthy of conſideration, to all that ſhall read this ſad ſtory, whether upon giving up themſelves under this aſſault to faſting and prayer, with deep humiliation be<g ref="char:EOLhyphen"/>fore God, might not have proved an effectual
+<pb n="13" facs="tcp:104639:12"/> means to have caſt out this kind of Devil.</p>
+            <p>For the Devil ſets upon her again to be her own Executioner, and to cut her own throat; for which purpoſe ſhe gets a knife and whets it ſharp, and ſets it to the hollow of her throat and makes a ſmall ſcar, cauſeth ſome blood to iſſue; but whether from the bluntneſs of the point of the knife, or the failing of her ſpirits, it would not enter, whereupon ſhe put the knife into her skirt, hoping to take another opportunity to accompliſh her deſign upon her ſelf, ſtill keeping the Devils counſel, and con<g ref="char:EOLhyphen"/>ſulting with him and her own evil heart, who never left hurrying her with temptations, until he had prevailed upon her.</p>
+            <p>Now at laſt the habit of wicked devices had ſo taken root in her, that ſhe thirſted, and as it were was impatient, till ſome way or other her own life was brought to an end; for on the
+5th. of <hi>February</hi> laſt paſt, her Husband being for ſome hours abſent, (and as ſhe appre<g ref="char:EOLhyphen"/>hended, neglected his buſineſs at home, ſhe grew full of diſcontent,) who coming in, and ſaying, <hi>Mary,</hi> I muſt go out again; ſhe an<g ref="char:EOLhyphen"/>ſwered, if you do, I will caſt the child into the fire, but his compliance and ſtay prevent<g ref="char:EOLhyphen"/>ed this; yet ſtill the Devil purſues her like a roaring Lion, ſeeking to devour her; for that
+<pb n="14" facs="tcp:104639:13"/> night a great preſſure of melancholy diſcontent overwhelmed her, to a reſtleſsneſs of body and ſpirit, much like them in <hi>Deut.</hi> 28. who in the evening wiſhed that it were morning, and in the morning, Oh, that it were evening: ſo that in the night, when her Husband was in bed and aſleep, ſhe took the child out of the cradle down into the Kitchin, which when her Hus<g ref="char:EOLhyphen"/>band awaked and miſſed, he knockt, whereupon ſhe brought up the child, and laid it into the cradle, and came to bed, but he could get no ſatisfactory anſwer why ſhe took down the child, but ſhe lay until the morning, which when it approached, being <hi>February</hi> 6th. the Lords day, whether any diſcompo<g ref="char:EOLhyphen"/>ſure happened betwixt her Husband and her, becauſe his better dayes garments were not laid out ready for him, or what it was God knows, but the ſequel was dreadful, for all contributing together, fills her brim-full with reſolution to ſome horrid and ſpeedy execu<g ref="char:EOLhyphen"/>tion; for ſoon after ſhe aroſe, and had made her fi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e one ſtory lower, ſhe takes her knife and whets it ſharper, and makes the offer to her own threat as before is hinted; but the Husband having knockt twice to have her come up to give him his better cloaths, and ſhe not coming, he aroſe, put on his every
+<pb n="15" facs="tcp:104639:13"/> dayes cloaths, and came upon her, and very probably prevented her execution of her ſelf; he asking her why ſhe came not up when he knockt, ſhe gave him no anſwer, but ſlips up the ſtairs into the chamber where the Babe lay in the cradle, and now the De<g ref="char:EOLhyphen"/>vil puts her upon a freſh conſultation what ſhould become of that child, which ſhe ſo dearly loved, after ſhe was dead; upon this ſhe concludes, ſhe had better rid that of life firſt, and then all her fears and cares for it would be at an end, and ſo ſhe ſhould put an end unto her own miſerable life, which was ſo burdenſome unto her; the which tempta<g ref="char:EOLhyphen"/>tion for want of having the fear of God in her heart, ſhe gave way unto, and ſitting down by the cradle, asked the innocent Babe about two years and one quarter old, <hi>Betty, Wilt have thy break-faſt?</hi> unto which the Babe anſwered, <hi>Ey,</hi> crying, <hi>Aha, aha,</hi> as it uſed to do when it was pleaſed, and put forth her hand to ſtroke her Mother; but ſhe laying aſide all Motherly Bowels, took the Babe out of the cradle, ſet her on her lap, took the knife out of her skirt, laid her left hand upon its face and chin, and with the other hand cut her throat at one ſtroke, in a gaſtly man<g ref="char:EOLhyphen"/>ner to behold, then threw it from her upon the hearth.</p>
+            <p>
+               <pb n="16" facs="tcp:104639:14"/>This relation ſhe gave her ſelf but the da<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> before her execution, with this doleful reply That when ſhe did that barbarous act, th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> child gave one skreek, and fetched three o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> four dreadful ſighs, and ſo became the Mo<g ref="char:EOLunhyphen"/>thers ſinful ſacrifice; which ſighs ſhe menti<g ref="char:EOLunhyphen"/>oned with much dejection of ſpirit, ſaying nothing like that gave her freſh grief an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> trouble, for ſhe was followed with the ima<g ref="char:EOLunhyphen"/>gination that ſhe heard its doleful ſigh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtill.</p>
+            <p>Thus having given the fatal blow, ſh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtamped with her foot for her Husband, and as an amazed Woman, half dead, caſt he<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſelf down upon a low ſeat, with her bloody hands on each ſide covered with part of he<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upper garment, and her head leaned againſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Cheſt of Drawers, did thus with an affright<g ref="char:EOLhyphen"/>ed countenance repoſe her ſelf; and it i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> worthy of note, that with the violence of the act, when ſhe cut her Babes throat, both he hands was ſo coloured with blood, that ſhe could not indure the ſight of them; the terror of this fatal ſtroke made ſuch a ſeizure upon her conſcience, with the reflection of that doleful ſight, her child lying before her eyes, with its heart-blood running out; immediately upon this, her Husband approaching at the
+<pb n="17" facs="tcp:104639:14"/> Chamber-door, ſaying, Wife, what is the matter you ſo haſtily knock with your feet? dolefully replied, ſhe had given the child its break-faſt. No ſooner had ſhe ſpake, but he beheld with an afflicted ſpirit his Babe lye bleeding on the ground, at which amazement broke out into ſuch lamentations as occaſion<g ref="char:EOLhyphen"/>ed both Lodgers and Neighbours to approach; the Chyrurgion being mentioned to be ſent for, to which ſhe replyed, you may ſave that labour, for I am ſure I have kill'd it. Now the doleful report of this dreadful act did ſoon ſpread it ſelf, upon which both neigh<g ref="char:EOLhyphen"/>bours and ſtrangers preſs in; amongſt others, ſome of the relaters of this bitter ſtory provi<g ref="char:EOLhyphen"/>dentially going that way, was invited up ſtairs, where they found the bleeding Babe but newly dead, the Father wringing his hands, and ſhedding multitude of tears, like a man ſo amazed, as half diſtracted (God forbid but we ſhould give him his due) his behaviour to appearance did expreſs, that with a lamentable reſentment he received this ſad news.</p>
+            <p>The Mother when ſhe had done this act was exceeding ſtupid, though much was ſaid to her, and prayers performed with her, and ſuch Scriptures laid before her of the dread<g ref="char:EOLhyphen"/>fulneſs
+<pb n="18" facs="tcp:104639:15"/> of the ſin, and puniſhment due for i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> both in this life, (and without repentance in the life to come; yet ſhe could not ſhe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one tear, and being demanded why ſhe ha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> done this, and ſpoken to to behold her dea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Babe, how it lay murdered upon the groun<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> before her eyes, being murdered by thoſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hands; ſhe then appeared not relenting a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all, but ſaid, it was done becauſe ſhe wa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> weary of her life, her Relations ſlighting he<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and leſt that child being moſt in her affecti<g ref="char:EOLunhyphen"/>on, ſhould come to want when ſhe was gone ſhe killed it firſt, knowing that way would al<g ref="char:EOLhyphen"/>ſo bring her to her deſired end. This wit<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> many other paſſages, not here ſo convenien<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to mention (becauſe of the ſurvivors) of the like nature was alſo uttered. But now ap<g ref="char:EOLhyphen"/>pears Conſtables and other Pariſh Officers who cauſed her narrowly to be ſearched, fo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fear of knife or any cord being found abou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> her, leſt ſhe might therewith take the like advantage to deſtroy her ſelf the next oppor<g ref="char:EOLunhyphen"/>tunity; her garters being then given up, bu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nothing elſe of danger found about her; being told it was feared ſhe would alſo kill her ſelf anſwers no, ſhe ſhould not do ſo; and being demanded whether ſhe was ſorry for wha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhe had done? replies, ſhe could wiſh ſhe
+<pb n="19" facs="tcp:104639:15"/> had not done it, but now it was too late; then being demanded whether ſhe was wil<g ref="char:EOLhyphen"/>ling to be prayed for? ſaid yes, for ſhe could not pray for her ſelf; ſo being deſired to go down to her knees, and hold up her eyes and hands, readily did, but could neither weep nor ſigh at that time; when her hour was come to be carried before the Juſtice, ſhe did without any appearing remorſe, either in carriage or countenance, make ready her ſelf, took her rings from her fingers, cauſed a pair of ſilver claſps to be cut from her Scarf, gave her Hus<g ref="char:EOLhyphen"/>band the ſeveral keys of Trunks, Cheſts or Boxes, telling him which particular key was for ſuch and ſuch a uſe, in ſo unconcerned a manner, to all appearance, as if going only to take ſome long journey, which verily in cha<g ref="char:EOLhyphen"/>rity leads us to believe ſhe was ſo overwhelm<g ref="char:EOLhyphen"/>ed with melancholy, as one bereft of ſences; being now carried before Sir <hi>William Turner,</hi> and being demanded whether ſhe had kill'd her child? replyed, yes; then being asked why? replyed, ſhe was diſcontented, and thought her Husband and Relations did not love her; being again demanded why ſhe thought ſo, aſſigned no cauſe, but that ſhe did believe ſo; upon this her bloody knife, and both her bloody hands was expoſed to view,
+<pb n="20" facs="tcp:104639:16"/> and her full examination taken, in which ſhe layes the actual guilt wholly upon her ſelf, clearing all others as to fact and privacy there<g ref="char:EOLhyphen"/>unto; and indeed with ſuch dejection of coun<g ref="char:EOLhyphen"/>tenance, and temper of carriage did demean her ſelf, that ſhe became the pity of all or moſt ſpectators. After the Juſtice had told her of the greatneſs of the crime, and what from men ſhe muſt expect, as puniſhment for the ſame, with ſerious and compaſſionate advice to the blood of Jeſus Chriſt for remedy, did thus conclude; and the God of heaven have mercy on your ſoul. After which her exami<g ref="char:EOLhyphen"/>nation was read to her, which ſhe owned as her act, and deed; being asked whether ſhe could write her name? anſwered no; then ſign it with your mark, ſaid the Juſtice, which ſhe did, by making a croſs inſtead of her name; the application of which gave thoughts to ſome ſtanders by, that ſure providence guid<g ref="char:EOLhyphen"/>ed that bloody hand to ſign her temporal death w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th a croſs, that her eternal life might as aſſuredly be ſaved by the Croſs; then was ſhe conveyed to <hi>Newgate;</hi> but going along, ſuddenly turned back, and looking at her Re<g ref="char:EOLhyphen"/>lation, uſed theſe words, with a doleful coun<g ref="char:EOLhyphen"/>tenance: <hi>O, if you had been more careful to look after me, you might have hindred me
+<pb n="21" facs="tcp:104639:16"/> from doing this;</hi> the application we com<g ref="char:EOLhyphen"/>mend to whom ſoever concerned, and thought it very meet to be inſerted, that ſuch a word from a dying woman might not die with her. Then being told by one afflicted for her, that now you are going to Priſon, and from thence muſt be conveyed to the Judgement-ſeat of men, and there receive Sentence of death, and from thence be ſent to the Judge<g ref="char:EOLhyphen"/>ment-ſeat of God; what think you of it? I pray for your ſouls ſake conſider it; there is now but a little ſtep between you and eternity; to which ſhe replyed, <hi>O, I wiſh I had not done this, but I am willing to die, on<g ref="char:EOLhyphen"/>ly afraid of my ſoul;</hi> well, replyed the par<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, there is vertue enough in Chriſt's blood to waſh your ſcarlet ſins white; <hi>I,</hi> ſaith ſhe,
+<hi>but I cannot yet repent my heart is ſo hard;</hi> if you cannot repent, do what you can in order <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o repentance, be lifting up your heart, your eyes and your hands continually to God; for you ſay you believe there is a God, and if you can but ſpeak few words, imploy them <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat way to beg him to give you repentance, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd to ſoften your hard heart; remem<g ref="char:EOLhyphen"/>ber the poor Publican, who ſmote upon his
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reaſt, ſaying, <hi>Lord be merciful to me a ſinner.</hi> Will you do what you can? <hi>Yes, I will.</hi> You
+<pb n="22" facs="tcp:104639:17"/> ſay you wiſh you had not done this Murde<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and that is one ſtep to repentance, therefor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> labour to groan more after this, and to tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> end ſhall I put up Bills this day, as your de<g ref="char:EOLhyphen"/>ſire, that Gods people may pray for you <hi>Yes, very willingly I deſire that,</hi> &amp;c. Now did ſhe arrive at the Priſon, and ſo with h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Mittimus</hi> was delivered into the hands o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Keeper, who with great expreſſions <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pity received his Priſoner, and deſired Go<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would have mercy on her ſoul.</p>
+            <div type="part">
+               <pb n="33" facs="tcp:104639:17"/>
+               <head>Of her behaviour in the time of her Im<g ref="char:EOLhyphen"/>priſonment, and other Paſſages very uſeful for every Chriſtian that deſires to be kept from being guilty of the like Fact.</head>
+               <p>SHe no ſooner cometh to <hi>Newgate,</hi> but the noiſe of this cruel Murder ſpreads abroad, and ſeveral reports went as to her ſelf, and what ſhould be the cauſes of that barbarous Act.</p>
+               <p n="1">1. That the Devil appeared in a perſonal ſhape unto her, and told her ſhe muſt either deſtroy her ſelf, or her Child.</p>
+               <p n="2">2. That the day before ſhe went to ſee one of her other Children at Nurſe, and would have ſent the Nurſe forth, that ſo ſhe might have killed that Babe.</p>
+               <p n="3">3. That ſhe was under trouble of mind about Religion, with many other things.</p>
+               <p>Which for ſatisfaction to our ſelves and o<g ref="char:EOLhyphen"/>thers, and clearing the truth of Goſpel-profeſ<g ref="char:EOLhyphen"/>ſion, (as being inconſiſtant for any true work of the Spirit of God in the conviction of a ſinner
+<pb n="34" facs="tcp:104639:18"/> to leave the ſoul, having begun in the Spirit to end in the fleſh.) Some of thoſe Miniſters which went to viſit her in the Priſon, made more than ordinary diligent ſearch into theſe things. And as to the firſt report ſhe ſaid, there was no ap<g ref="char:EOLhyphen"/>pearance unto her but the violent Temptation of the Devil, and her own wretched and ſinfull heart giving way to the Temptation.</p>
+               <p>And as to the ſecond, ſhe confeſt ſhe went to ſee her Child at Nurſe upon the Saturday before, but it never entered into her heart to conceive a thought of doing that Child any hurt.</p>
+               <p>And as to the third, her anſwer was, That there was nothing of any Religious Concern<g ref="char:EOLhyphen"/>ment in it; but it was that great Diſcontent which ſhe had conceived in her mind, ground<g ref="char:EOLhyphen"/>ed upon her apprehenſion of exceeding unkind<g ref="char:EOLhyphen"/>neſſes of her Relations unto her, although ſhe had never been undutiful unto them; but ve<g ref="char:EOLhyphen"/>ry ſparing ſhe was in accuſing any but her ſelf: And it is not the deſign of this <hi>Narrative</hi> to ac<g ref="char:EOLhyphen"/>cuſe them, only to deſire they may cal to mind, and lay to heart, and repent of their neglect of duty towards her, wherein they ſhall any of them be conſcious unto themſelves of remiſ<g ref="char:EOLhyphen"/>neſs; and that all others who ſhall reade this ſad <hi>Relation,</hi> may take warning thereby, ſo to diſcharge their relative duties, that they may
+<pb n="35" facs="tcp:104639:18"/> not expoſe their Relations unto Temptations, and ſo when a ſeparation cometh, either violent or natural, they have cauſe to mourn all their dayes for their own and their other mens ſins.</p>
+               <p>But as to her ſelf, the ſenſe of her great ſin and guilt lay with ſuch weight upon her con<g ref="char:EOLhyphen"/>ſcience, that Satan uſed his utmoſt endeavour to drive her into deſpair of ever obtaining mer<g ref="char:EOLhyphen"/>cy; it being his uſual method to preſent God <hi>all mercy,</hi> to allure men to commit ſin, and af<g ref="char:EOLhyphen"/>terwards to preſent God <hi>altogether ſeverity,</hi> to drive the ſinner into deſpair of God's mercy in the pardon of their ſin.</p>
+               <p>A great wound lay upon her with reſpect un<g ref="char:EOLhyphen"/>to her dear Babe whom ſhe had ſo inhumanly deſtroyed, Whether her Fact might not hin<g ref="char:EOLhyphen"/>der the Child's Salvation? Much care and pains was taken ſo to ſpeak as might not in the leaſt extenuate the ſence of her guilt, and yet to open a door of hope unto her, that the eter<g ref="char:EOLhyphen"/>nal ſtate of the Child might be ſafe (notwith<g ref="char:EOLhyphen"/>ſtanding her great wickedneſs) through the riches of God's grace, which ſheweth mercy unto whom he will ſhew mercy, that 18th of <hi>Ezekiel,</hi> ver. 24, being read unto her.</p>
+               <p>But ſtill ſhe ſadly bewailed the horridneſs of her ſin, wiſhing often, <hi>Oh that ſhe had had more Grace! for, if it were to do again, ſhe would ſubmit to a thouſand deaths, rather than to com<g ref="char:EOLhyphen"/>mit
+<pb n="36" facs="tcp:104639:19"/> that ſin:</hi> And her ſore trouble now was, that her heart was ſo obdurate that ſhe could not mourn as ſhe ſhould, and deſired to do; and begged that all good people would pray for her: And being asked, What ſhe deſired us to pray unto God for, for her? her anſwer was, <hi>that God would give her a broken and peni<g ref="char:EOLhyphen"/>tent heart.</hi>
+               </p>
+               <p>She alſo ſadly lamented her diſtraction by reaſon of her evil company in the Room with her, that hindred both her meditations and ad<g ref="char:EOLhyphen"/>dreſſes to God. O it is ſad dwelling in the Tents of <hi>Kedar,</hi> and a ſore evil to leave our great work to do until the laſt, not knowing what hindrance we may meet with: It is in<g ref="char:EOLhyphen"/>convenient to caſt up our Accounts in a crowd and hurry of buſineſs.</p>
+               <p>Ever and anon ſhe would ſadly bewail her want of the light of God's countenance; and it was not to be wondred at that ſhe was ſo much in the dark, having committed ſuch a groſs ſin againſt the light of Nature. Iniquity ſeparates betwixt us and our God, and cauſeth him to hide his face, that it is rarely if ever they recover it; though he may in mercy par<g ref="char:EOLhyphen"/>don the ſin, yet he may juſtly cauſe the ſinner to go mourning and with broken bones to the grave.</p>
+               <p>
+                  <pb n="37" facs="tcp:104639:19"/>The Seſſions now came on, and upon the 21th of <hi>February</hi> ſhe was arraigned and en<g ref="char:EOLhyphen"/>dicted at the <hi>Old-Baily,</hi> and caſt for her life.</p>
+               <p>Upon the Petition of her Husband, ſhe had a weeks time granted her, to prepare for her death, and being ſentenced on Wedneſday the ſecond of <hi>March</hi> to die in <hi>Smithfield,</hi> over a<g ref="char:EOLhyphen"/>gainſt <hi>Clothfair-Gate,</hi> where ſhe formerly lived when ſhe committed that horrid Murder.</p>
+               <p>During this time, much pains was taken with her continually, by skilful and faithful Phyſi<g ref="char:EOLhyphen"/>cians, for her Souls recovery out of the ſnare of the Devil, who had carried her captive at his will; and ſeveral Books of Mr. <hi>Baxters,</hi> and other Books ſuitable to her preſent condition, were brought her to reade, which ſhe ſeemed diligently to improve her time in, together with the holy Scriptures.</p>
+               <p>
+                  <hi>March</hi> 1. being the day before her Execu<g ref="char:EOLhyphen"/>tion, one Mris. <hi>R. H.</hi> had an earneſt deſire to ſee her, and to watch with her that night, and through God's mercy it was of great uſe unto her, for her comfort who had now but a little time to live.</p>
+               <p>That day being asked, If a pardon for life, or a pardon for her ſin were equally preſented to chooſe one, which would ſhe chooſe? ſhe an<g ref="char:EOLhyphen"/>ſwered, <hi>If her heart did not deceive her, it would be the pardon of her ſin. O her ſin, her ſin! her
+<pb n="38" facs="tcp:104639:20"/> blood-guiltineſs,</hi> lay with weight upon her! but ſtill ſhe cryed out, <hi>ſhe could not find her heart in that broken and believing frame which ſhe deſired it ſhould be in.</hi>
+               </p>
+               <p>On the ſame day great pains were taken with her to help her underſtanding and apprehen<g ref="char:EOLhyphen"/>ſion, both as to the nature of true Repentance, and ſaving Faith: to which ſhe with more than former freedom anſwered, <hi>That as to Repentance opened unto her, ſhe hoped God had given her a ſight of her ſin, and a deſire to be truly humbled for it; it was her wound ſhe was no more wounded, and that ſhe did deſire to forſake ſin with abhor<g ref="char:EOLhyphen"/>rence, and to loath her ſelf for her ſin, to lay her mouth in the duſt, and yet to look up unto the Lord Jeſus, if ſo be ſhe might find mercy.</hi>
+               </p>
+               <p>And as to her Faith, ſhe ſaid, <hi>God had con<g ref="char:EOLhyphen"/>vinced her that her own righteouſneſs was but un<g ref="char:EOLhyphen"/>righteouſneſs, even as a filthy menſtruous cloth, and therefore deſired out of the ſence of her own nothing<g ref="char:EOLhyphen"/>neſs, and utter emptineſs, to go out of her ſelf, and to rely upon Jeſus Chriſt alone for Righteouſneſs and Salvation.</hi>
+               </p>
+               <p>Then ſeveral Scriptures were read unto her, and preſſed with earneſtneſs upon her, amongſt many others, that in <hi>Mark</hi> 5.25. and forward, concerning that Woman which had a bloody iſſue, who ſaid in her ſelf, <hi>If I may but touch the hem of his garment, I ſhall be whole.</hi> Much
+<pb n="39" facs="tcp:104639:20"/> was ſpoken unto her from this, wherewith ſhe was obſerved to be very much affected, tears trickling down more than uſually, and with earneſtneſs ſaid, <hi>O that I could believe!</hi>
+               </p>
+               <p>That evening before ſhe ſuffered, her Huſ<g ref="char:EOLhyphen"/>band's long abſence from her, gave her occaſi<g ref="char:EOLhyphen"/>on to ſuppoſe that endeavours were uſing for a Reprieve, or a Pardon for her, at which ſhe did rather expreſs diſlike, than to be well plea<g ref="char:EOLhyphen"/>ſed, ſaying, <hi>ſhe had rather chooſe to die, than to continue in that place with that wicked company, it being a Hell upon Earth, if any ſuch were;</hi> and that <hi>ſhe was not at all concerned about a Pardon from Man, could ſhe but obtain a Pardon from Chriſt, it was that ſhe moſt deſired; nevertheleſs, for her better preparation for death, ſhe could have wiſhed a little longer time; but ſhe was willing to die, if that could not be obtained.</hi>
+               </p>
+               <p>That night ſhe took a little reſt for the ſup<g ref="char:EOLhyphen"/>porting of nature, but it was judged ſhe ſlept not above half an hour; but ſome time was ſpent by her ſelf, her Husband, and Mris.
+<hi>R.H.</hi> in prayer and reading, ſhe her ſelf taking her Bible, read the fourth chapter of
+<hi>Matthew,</hi> and wept much in the reading of it, ſaying, <hi>The Lord Jeſus was tempted, but he was God-man, and the Evil-one found nothing in him, and ſo could not prevail againſt him: but I, a vile wretch!
+<pb n="40" facs="tcp:104639:21"/> Temptation no ſooner came and aſſaulted me, but I was overcome by it; a wicked woman that I am to give way to that roaring Lion!</hi>
+               </p>
+               <p>Then reading <hi>Iſa.</hi> 44.22. <hi>[I have blotted out as a cloud thy tranſgreſſions, and as a thick cloud thy ſins: return unto me, for I have redeemed thee]</hi> brake out again with tears, ſaying, <hi>Oh! what grace is this! What, my ſins! what, a Re<g ref="char:EOLhyphen"/>deemer to ſuch a great ſinner as I have been!</hi> Then turning further unto <hi>Iſa.</hi> 54.7, 8. <hi>[I will have mercy upon thee, ſaith thy Redeemer.] See,</hi> ſaith ſhe, <hi>here is Redeemer again!</hi>
+               </p>
+               <p>Her Husband, a little before morning, asked her how it was with her? ſhe anſwered, <hi>Not ſo well as to boaſt, nor ſo bad as to be altogether de<g ref="char:EOLhyphen"/>jected.</hi>
+               </p>
+               <p>When morning came, ſhe dreſſed her ſelf that ſhe might be in readineſs when called, but ſeemed a little impatient to loſe ſo much time in dreſſing her body, when ſhe had ſo little to improve for her ſoul which lay at ſtake. Seve<g ref="char:EOLhyphen"/>ral both Miniſters and other Chriſtian friends waiting to go up unto her when ſhe was ready; one of them deſiring to know how it was with her this morning? ſhe anſwered, <hi>that ſhe was now entring upon the borders of Eternity, but Oh, what ſhould ſhe do, ſhe wanted the light of God's countenance!</hi> Whereupon both awakening and comforting words were ſpoken unto her; and
+<pb n="41" facs="tcp:104639:21"/> then a little time was ſpent in prayer to God, that he would pleaſe graciouſly to direct us ſo to ſpeak unto her, as might advance his Glory, and effectually adminiſter comfort unto her Soul. In prayer ſhe was ſeen to melt very much. And having ended that duty, as God did direct, the words of God were ſpoken unto her, and ſhe was deſired to ſpeak what was upon her heart, for our comfort who had been labouring for the Lord with her.</p>
+               <p>But ſhe being ſilent for a little ſpace, but ob<g ref="char:EOLhyphen"/>ſerved to have ſome conflict in her ſoul, by the tears which fell, and ſighs which broke forth, It was again propounded unto her, Whether ſhe found not a ſecret perſwaſion, that God was able to pardon her great and manifold ſins, but alſo very great fears whether he were willing yea or no?</p>
+               <p>Whereupon ſhe broke forth into a fuller paſſion of tears, ſaying, <hi>O Sir, you ſpeak the very thoughts of my heart, God hath convinced me of the Alſufficiency of his Grace, that though my ſins be as Scarlet, as Crimſon, he can make them white as Snow, as Woel; but O to know whe<g ref="char:EOLhyphen"/>ther he will or no, that lieth as my great fear.</hi> — Wherupon endeavours were uſed to encourage her to hope in God's mercy, who had teſtified his unwillingneſs that any ſould ſhould periſh; and that he took no pleaſure in the death of
+<pb n="42" facs="tcp:104639:22"/> ſinners, but rather deſired their return that they might live; Alſo the Lord Jeſus graciouſly in<g ref="char:EOLhyphen"/>vited ſinners, yea the greateſt of ſinners, under the heavieſt load and burden of their guilt and filth, being weary of their load, to come to him that they might be ſaved and find reſt: and had promiſed, that who ever came unto him, though at laſt (if in truth) he would not caſt them out; and that he had ſent his Miniſters to beſeech ſinners to be reconciled unto God; and that we came in his Name and Authority to deliver that his Meſſage unto her:</p>
+               <p>Therefore the Queſtion was put unto her, Whether ſhe was willing to accept of mercy from Chriſt, and to take Him upon his own terms? Unto which ſhe anſwered, with a ſeemingly altered countenance as to chearful<g ref="char:EOLhyphen"/>neſs, <hi>Yea, ſhe was willing, and deſired with her whole ſoul, to be ſanctified throughout by Jeſus Chriſt, and waſhed in his Blood, as ever ſhe deſired to be juſtified by his Righteouſneſs, or ſaved by his Death.</hi>
+               </p>
+               <p>Then it was judged expedient to leave her a little retired, that ſhe might improve a few mi<g ref="char:EOLhyphen"/>nutes in ſecret betwixt God and her own ſoul, deſiring all the company to withdraw, ſaving her Husband and Mris <hi>R.H.</hi> And after a little ſpace of time ſhe deſired we would come up a<g ref="char:EOLhyphen"/>gain, and apprehending her in a pretty good
+<pb n="43" facs="tcp:104639:22"/> frame, willing to reſign up her ſelf now unto the Lord, what time the Officers could ſpare (for now the time drew near) was ſpent in fer<g ref="char:EOLhyphen"/>vent prayers and tears unto God with and for her: In the cloſe, being deſired to tell us what returns God had graciouſly given to all our endeavours with her? ſhe ſaid, <hi>that the Lord had brought her to that reſolution, that although ſhe might not ſenſibly lie in his boſom, yet ſhe would penitently lie and die at his feet; and if ſhe periſh<g ref="char:EOLhyphen"/>ed, ſhe would periſh there.</hi>
+               </p>
+               <p>When ſhe came to the place of Execution, ſhe ſeemed to have a mixture of fear and hope in her, wringing one by the hand, ſaid, <hi>O what ſhall become of me now, if my heart have deceived me hitherto!</hi> Some words being ſpoken unto her, ſhe encouraged her ſelf again in the free<g ref="char:EOLhyphen"/>neſs of God's grace, and the fulneſs of mercy that was in Chriſt for poor penitent ſinners.</p>
+               <p>After earneſt Prayers put up unto God for her, and ſeaſonable Counſels given her by Mr. Ordinary and ſome others, ſhe went upon the Ladder, having before expreſſed an earneſt de<g ref="char:EOLhyphen"/>ſire to have ſpoken to the people, but wanting ſtrength, ſhe entreated us to declare to the Spectators and to all the World, <hi>That ſhe deſired to juſtifie the Lord in all his righteous proceedings againſt her, and that ſhe died juſtly for her great ſin; and earneſtly begged that all that ſaw or heard
+<pb n="44" facs="tcp:104639:23"/> of her untimely end, would take warning by her de<g ref="char:EOLhyphen"/>plorable fall, to take heed how they gave way to Satans Temptations.</hi>
+               </p>
+               <p>Being upon the Ladder, a convenient time was left her to commend her ſoul unto God; and that ſhe might not be ſurprized before ſhe was ready, was deſired to give a ſign when ſhe had done; and ſhe with the ſame foot where<g ref="char:EOLhyphen"/>with ſhe ſtampt for her husband to tell him of her horrid fact which ſhe had unnaturally done, ſtamped upon the round of the Ladder, to give notice ſhe was now willing and ready to dye for the ſame: whereupon the Executioner did his office.</p>
+               <p>Many other paſſages might have been inſer<g ref="char:EOLhyphen"/>ted, but becauſe we are not willing to make this Narrative ſwell too large, we ſhall omit them.</p>
+               <p>O that this ſad Execution may cauſe all that hear, to fear, and do no more ſo preſumptuouſ<g ref="char:EOLhyphen"/>ly. <hi>Deut.</hi> 17.13.</p>
+               <p>How apparent is it that the Devil goeth a<g ref="char:EOLhyphen"/>bout like a roaring Lion, ſeeking continually whom he may devour! And how much the more need have all the children of men to be upon their diligent watch, and to be earneſt and fervent in prayer to God, that they may not be overcome with his temptations.</p>
+               <p>
+                  <pb n="45" facs="tcp:104639:23"/>Yea, <hi>let him that thinketh he ſtandeth, take heed lest he fall.</hi>
+               </p>
+               <p>Let it be your care to check every tempta<g ref="char:EOLhyphen"/>tion at the entrance of it. Conſult not with fleſh and blood; give no place to ſlaviſh fears; admit of no conſultations with the Devil, leſt he prove too hard for you. Give not way to ſinful anger, for therein thou giveſt place to the Devil: And let all ſinners know, that if they do evil, ſin lieth at their door; if they reſolve to continue in their ſin, then their ſin will aſſuredly find them out; but if they break off their ſins by works of righteouſneſs, repent, and return to the Lord, iniquity ſhall not be their ruine.</p>
+            </div>
+            <div type="part">
+               <head>Some paſſages omitted in the former Narrative.</head>
+               <p>ABout ten of the clock the morning ſhe ſuffered, the Officer told her, Now they were ready to go with her to Execution. At this many ſtrangers that were with her, did both with prayers and tears com<g ref="char:EOLhyphen"/>mend her condition to God, ſhe deſiring they might continue the ſame to her end.
+'Tis worthy of note to all that ſhall read her manner of deportment at this time: She went down the ſtairs in ſo unconcerned a manner, as though ſhe had not been the perſon to ſuf<g ref="char:EOLhyphen"/>fer, but rather a ſpectator; for while many that know the bitter cup ſhe was to drink, could not ceaſe from deep diſcompoſure, ſhe ſeemed as a perſon free from
+<pb n="46" facs="tcp:104639:24"/> ſuch fear or torment, as commonly attends thoſe that have ſuch an hour of tryal to undergo. At the foot of the ſtairs ſhe had ſome half an hours repoſe, by reaſon a Cart was not ready. In this intermiſſion did many hearts yern toward her Eternal condition, tel<g ref="char:EOLhyphen"/>ling her now there was but one ſtep more between her and that. Then ſhe aſked,
+<hi>how ſhe might know Jeſus Chriſt dyed for her?</hi> It was replyed, He dyed for ſinners, yea the greateſt of ſinners; and ſhe knew ſhe was one, and a chief one; and that in the 5th of <hi>Romans,</hi> ver. 6, 8. it is ſaid, <hi>he dyed for the ungodly,</hi> even the worſt of people, and the Scriptures did no<g ref="char:EOLhyphen"/>where exclude her by name from benefit in Chriſt's blood: and in 1 <hi>Tim.</hi> 2.3. it is charged, <hi>that prayers and ſupplications be made for all;</hi> and in ver. 4. the reaſon is rendred, <hi>for God would have all to be ſaved, and come to the knowledge of his Truth</hi>
+               </p>
+               <p>About this time came the Officer with a Rope, and it is worthy of note how ſhe then did behave her ſelf; he makes a nooſe before her eyes, (enough to daunt any beholder, much more the perſon for whom it was making) then he takes her right arm and puts the Rope over that, then over her left, and ſo tyes it with a knot at the middle of her back; ſhe all this while attentive to what was ſpoken by the perſons who came in love to viſit her, appearing without change of countenance or terror of ſpirit; and in<g ref="char:EOLhyphen"/>deed, excepting the guilt of Murder that lay on her conſcience, her conſtant cariage was more like a Lamb going to the ſlaughter, than a Murderer going to the Gallows. By this time the Cart was ready, which ſhe aſcending, then told us,
+<hi>Nothing troubled her like that ſhe ſhould bring ſuch diſhonour to God by this ſin, wiſhing with all her heart that all that did behold her, might take warning by her miſerable eſtate, how they li<g ref="char:EOLhyphen"/>ved in this World.</hi>
+               </p>
+               <p>Now ſhe is come within ſight of the Gibber, on
+<pb n="47" facs="tcp:104639:24"/> which ſhe muſt in a very ſhort time ſuffer death; and then the Executioner came and undid the Rope from where it was tyed about her in the Priſon, and taking off her Handkerchief, bares her neck, tyes the Rope about it, fitting the knot to her right ear, at which (to the admiration of ſome preſent) ſhe was not in the leaſt terrified, nor changed in her counte<g ref="char:EOLhyphen"/>nance. Mr. Ordinary now comes to pray with her, and gave her many uſeful exhortations. Then did Mr. <hi>P.</hi> alſo pray with her in a moſt earneſt manner, as the laſt vocal prayer that was ever like to be put up unto God for her: Then did we all preſent take our farewell of her, beſeeching God in this needful moment not to reject her in this miſerable and low eſtate, which without his mercy and pardon, muſt periſh to all eternity. Then did Mr. <hi>P.</hi> as a cloſe of all, beſeech her look up to a gracious God, as her laſt and only refuge, and carry with her theſe words to Execution, <hi>Into thy hands, O Lord God, do I commit my Spirit.</hi> Then did we lead her by the hands to the Ladder, where ſhe was placed a convenient diſtance from the ground, and the Rope faſtned to the Gib<g ref="char:EOLhyphen"/>bet, while thouſands of Spectators beholding her with a general compaſſion, to whom we ſignified her de<g ref="char:EOLhyphen"/>ſire was to have the benefit of all their prayers: upon which, with one conſent they uncovered their heads, and lift up their hands, uſing this expreſſion, <hi>The Lord have mercy upon her Soul.</hi> Then ſhe had near a quarter of an hours repoſe to her ſelf upon the Ladder, and though her hands were tyed together, yet ſhe was obſerved often to move them upwards in her private prayer.</p>
+               <p>Then we begged her to remember to the laſt that God was a very gracious God, and to give us ſome ſign of his goodneſs to her at her departure, if ſhe found it ſo: Upon which ſhe replyed with ſuch a comfortable anſwer as gave us occaſion to give thanks
+<pb n="48" facs="tcp:104639:25"/> to his Name. And now to the glory of Gods mercy be it ſpoken, and to the deterring all from Evil by her fall, and to the encouragement of ſinners to re<g ref="char:EOLhyphen"/>pentance, that they may find mercy, as we truſt ſhe hath done; for now hath ſhe to our joy (much exceeding our ſorrow) ended her life in <hi>Smithfield,</hi> near <hi>Cloth-Fair</hi> Gate, upon the 2d of this inſtant <hi>March</hi> 1669. with her hands lifted up to God in a moſt fervent manner while ſence remained, which was about half a quarter of an hour; and ſhe conti<g ref="char:EOLhyphen"/>nued upon the Gibbet about three quarters more: Then was her Body taken down, and conveyed to the ſame Room her dear Child was by her kild in; and on the next day after in the evening ſhe was buried in
+<hi>Great St. Bartholomew's</hi> Church-yard, being ac<g ref="char:EOLhyphen"/>bompanied by a great many Neighbours and Stran<g ref="char:EOLhyphen"/>gers, to perform their laſt office of love for the dead, that had given them no other cauſe while living, but in this great tranſgreſſion.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:104639:25"/>
+         </div>
+      </body>
+   </text>
+</TEI>
